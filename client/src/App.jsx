@@ -7,7 +7,7 @@ import StatisticPage from "./pages/StatisticPage";
 import Register from "./pages/auth/Register";
 import Login from "./pages/auth/Login";
 
-
+//asdasdasdasdasdasd
 function App() {
   return (
     <>
